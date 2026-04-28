@@ -2,3 +2,4 @@
 Demo/RMDemo_*/RMDemo_*/build
 Demo/RMDemo_*/RMDemo_*/Robotic_Arm/lib/*:Zone.Identifier
 *.pyc
+__pycache__/
